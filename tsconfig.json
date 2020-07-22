@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "allowJs": false
+  },
+  "include": ["src"]
+}
